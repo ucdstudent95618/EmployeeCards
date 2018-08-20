@@ -1,4 +1,4 @@
-# EmployeeCards
+# Employee Cards
 A Design template to create Employee Cards for your Unit's Website.
 
 ![](img/template.png)
