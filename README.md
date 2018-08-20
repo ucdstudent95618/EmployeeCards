@@ -1,6 +1,8 @@
 ## EmployeeCards
 A Design template to create Employee Cards for your Unit's Website.
 
+![](img/template.png)
+
 ## Download
 To download the template clone the repository or download the zip file.
 
